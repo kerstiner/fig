@@ -1,0 +1,17 @@
+.box{
+	margin: 0 auto; 
+	width: 500px;
+	height: 200px;
+	border: 1px solid #000;
+}
+.error-email{
+	display: none;
+}
+
+.error-password{
+	display: none;
+}
+
+.error-password2{
+	display: none;
+}
