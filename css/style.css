@@ -15,3 +15,6 @@
 .error-password2{
 	display: none;
 }
+.error-input-box{
+ 	border-color: red;
+ }
