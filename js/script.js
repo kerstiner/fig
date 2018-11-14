@@ -38,7 +38,7 @@
  	} else{
  		 errorPassword2.style.display='none';
  	}
-
+            
  	if (email !="" && !filter.test(textEmail.value)) {
 	   	errorEmail.innerHTML = 'Invalid Email';
 	   	errorEmail.style.color = 'red';
